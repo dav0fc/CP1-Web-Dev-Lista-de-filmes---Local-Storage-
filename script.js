@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-Função de c* é rol*.
+Função de c* é rol*
 */
 
 const favoritoClicado = (eventoDeClique) => {
